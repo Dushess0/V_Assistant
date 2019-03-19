@@ -13,5 +13,5 @@ ALT+E toggle on-screen drawing
 
 
 
-If you have any questions or propositions please write me via Telegram (@Dushess0).
-Thank you!
+If you have any questions or propositions, please write me via Telegram @Dushess0 .
+Thanks You!
