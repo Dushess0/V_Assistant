@@ -10,6 +10,8 @@ ALT+A eraser
 ALT+Q pallete for on-screen brush
 ALT+E toggle on-screen drawing
 
+If you want to try it just download exe and run it!
+
 
 
 
