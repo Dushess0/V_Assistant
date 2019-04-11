@@ -1,6 +1,6 @@
 # V_Assistant
-My first application. It's include media player, timer, stopwatch. It also can draw on screen and add an application on screen for quick access. C#+WinForms = POWER
-
+Writed using C# and WinForms.
+This application includes it media-player, timer, stopwatch, tool for quick launch other applications. It also can draw on screen directly. Main advantage of this app is using much less RAM than Windows defaults applications.
 
 
 Shortcuts:
