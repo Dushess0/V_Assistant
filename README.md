@@ -1,5 +1,5 @@
 # V_Assistant
-Writed using C# and WinForms.
+Written using C# and WinForms.
 This application includes it media-player, timer, stopwatch, tool for quick launch other applications. It also can draw on screen directly. Main advantage of this app is using much less RAM than Windows defaults applications.
 
 
