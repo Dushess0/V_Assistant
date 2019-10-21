@@ -12,7 +12,15 @@ ALT+E toggle on-screen drawing
 
 If you want to try it just download folder with name "Vass" and run exe.
 
+Some screenshots:
 
+![Screenshot](screenshot1.png)
+
+![Screenshot](screenshot12.png)
+
+![Screenshot](screenshot3.png)
+
+![Screenshot](screenshot4.png)
 
 
 If you have any questions or propositions, please write me via Telegram @Dushess0 .
