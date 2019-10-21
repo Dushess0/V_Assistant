@@ -23,7 +23,7 @@ Some screenshots:
 
 ![Screenshot](screenshot2.png)
 
-3) Draw widget that allows you to draw on the other windows
+3) Draw widget that allows you to draw on the other windows (Alt + D to clean, Alt+Q for palette, Alt+E switch on/off Alt+A ereaser)
 
 ![Screenshot](screenshot3.png)
 
